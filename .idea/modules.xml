@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GameTopUp/GameTopUp.iml" filepath="$PROJECT_DIR$/GameTopUp/GameTopUp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Landlords/Landlords.iml" filepath="$PROJECT_DIR$/Landlords/Landlords.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MilkBox/MilkBox.iml" filepath="$PROJECT_DIR$/MilkBox/MilkBox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyModuleOne/MyModuleOne.iml" filepath="$PROJECT_DIR$/MyModuleOne/MyModuleOne.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyModuleTwo/MyModuleTwo.iml" filepath="$PROJECT_DIR$/MyModuleTwo/MyModuleTwo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyTestFramework/MyTestFramework.iml" filepath="$PROJECT_DIR$/MyTestFramework/MyTestFramework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StudentManager/StudentManager.iml" filepath="$PROJECT_DIR$/StudentManager/StudentManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myCode/myCode.iml" filepath="$PROJECT_DIR$/myCode/myCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myModule_01/myModule01.iml" filepath="$PROJECT_DIR$/myModule_01/myModule01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myModule_02/myModule_02.iml" filepath="$PROJECT_DIR$/myModule_02/myModule_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test1/test1.iml" filepath="$PROJECT_DIR$/test1/test1.iml" />
+    </modules>
+  </component>
+</project>

@@ -19,7 +19,7 @@ package com.fan.interface3;
  *
  *     public abstract class Door {
  *         public abstract void open();
- *         public abstract void open();
+ *         public abstract void close();
  *     }
  *
  *     public class AlarmDoor extends Door implements Alarm {

@@ -1,5 +1,15 @@
 package com.fan.lambda;
 
+/*
+    Lambda表达式基础语法:
+
+    ()  参数列表
+    ->  分隔作用
+    {}  方法体
+
+ */
+
+
 public class LambdaDemo_01 {
     public static void main(String[] args) {
 

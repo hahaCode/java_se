@@ -3,7 +3,7 @@ package com.fan.functionalInterface;
 import java.util.function.Supplier;
 
 /**
- * 常用的函数式接口 Supplier
+ * 常用的函数式接口 Supplier 代表结果供应商
  */
 public class FunctionInter_04 {
     public static void main(String[] args) {
